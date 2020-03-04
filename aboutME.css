@@ -6,7 +6,8 @@ h1{text-align: center; color: rgb(0, 195, 255);
     padding: 10px;
     text-align: center;
     font-family: cursive;}
-h2{text-align: center;color: rgb(0, 195, 255);font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h2{text-align: center;color: rgb(0, 195, 255);font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;background-color: black;border-style: dotted;border-color:rgb(0, 195, 255)}
+
 p{text-align: center;color: rgb(0, 0, 0);font-size: 40in; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-weight: bolder;}
 
 
